@@ -1,0 +1,5 @@
+"reservationID";"customerID";"roomType";"reservationDate"
+1;1;"Standard";"2023-10-05"
+2;2;"Deluxe";"2023-10-15"
+3;3;"Suite";"2023-10-01"
+4;4;"Luxury";"2023-10-15"

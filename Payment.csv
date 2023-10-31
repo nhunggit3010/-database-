@@ -1,0 +1,5 @@
+"paymentID";"payment_date";"paymentMethod";"transactionID";"paymentStatus";"customerID";"employeeID"
+1;"2023-10-01";"cash";"TXN123456";"paid";1;2201
+2;"2023-10-15";"credit card";"TXN789012";"paid";2;2202
+3;"2023-11-01";"debit card";"TXN345678";"pending";3;2203
+4;"2023-11-15";"cash";"TXN567890";"paid";4;2204
